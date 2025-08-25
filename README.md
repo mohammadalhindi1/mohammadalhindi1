@@ -61,5 +61,5 @@ I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+
 
