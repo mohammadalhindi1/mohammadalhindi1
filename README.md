@@ -1,15 +1,19 @@
 <div align="center">
 
+  <!-- صورة متحركة بدون ستوب -->
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 <p align="center">
-  <a href="https://github.com/ashiq72/"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ashiq72/">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50">
+  </a>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-alhindi-96502a255/" target="_blank">
+  <!-- تعديل لينك LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohammad-alhendi13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
@@ -61,8 +65,6 @@ I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
-
-###
 
 
 
