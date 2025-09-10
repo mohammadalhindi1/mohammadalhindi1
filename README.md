@@ -4,6 +4,9 @@
 </div>
 
 ###
+<p align="center">
+  <a href="https://github.com/ashiq72/"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-alhindi-96502a255/" target="_blank">
