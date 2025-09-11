@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- صورة متحركة بدون ستوب -->
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -12,7 +11,7 @@
 </p>
 
 <div align="center">
-  <!-- تعديل لينك LinkedIn -->
+
   <a href="https://www.linkedin.com/in/mohammad-alhendi13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
