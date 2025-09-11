@@ -4,9 +4,7 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/ashiq72/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+Computing+Specialist;AWS+%26+Azure+Practitioner;42+Amman+Student;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
 <div align="center">
