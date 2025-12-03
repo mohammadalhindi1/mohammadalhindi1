@@ -23,7 +23,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Mohammad Alhindi</h1>
-<h1 align="center">Don't hardcode the compiler name</h1>
+
 ###
 
 <h3 align="left">About Me</h3>
@@ -62,5 +62,5 @@ I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
 
-
+<h1 align="center">Always remember Don't hardcode the compiler name ^_^</h1>
 
