@@ -23,7 +23,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Mohammad Alhindi</h1>
-
+<h1 align="center">Don't hardcode the compiler name</h1>
 ###
 
 <h3 align="left">About Me</h3>
