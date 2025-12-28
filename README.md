@@ -37,8 +37,6 @@ I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
 - 📚 Preparing for the AWS Certified Solutions Architect exam.<br>
 </p>
 
-###
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
