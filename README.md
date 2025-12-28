@@ -24,7 +24,6 @@
 
 <h1 align="center">Hey there 👋, I'm Mohammad Alhindi</h1>
 <h3 align="center">Available for work, message me</h3>
-###
 
 <h3 align="left">About Me</h3>
 
