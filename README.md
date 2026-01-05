@@ -22,18 +22,18 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Mohammad Alhindi</h1>
-<h3 align="center">Available for work, message me</h3>
+<h1 align="center">Hey There 👋, I'm Mohammad Alhindi</h1>
+<h3 align="center">Available For Work, Message Me</h3>
 
 <h3 align="left">About Me</h3>
 
 <p align="left">
-I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
+I am a DevOps Engineer who loves building scalable cloud systems.<br><br>
 - 🚀 Passionate about cloud computing and fast development cycles.<br>
-- 🎯 My goal is to become a Cloud Architect.<br>
 - 🎓 Graduated from LTUC with a BSc in Cloud Computing.<br>
 - 🏫 Currently enrolled in 42 Amman Core program.<br>
-- 📚 Preparing for the AWS Certified Solutions Architect exam.<br>
+- 🎯 My goal is to become a DevOps Engineer.<br>
+- 📚 AWS Certified Solutions Architect.<br>
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
@@ -59,5 +59,5 @@ I'm a DevOps Engineer who loves building scalable cloud systems.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
 
-<h1 align="center">Always remember Don't hardcode the compiler name </h1>
+<h1 align="center">Always remember Don not hardcode the compiler name </h1>
 
