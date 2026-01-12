@@ -23,7 +23,7 @@
 ###
 
 <h1 align="center">Hey There 👋, I'm Mohammad Alhindi</h1>
-<h3 align="center">Available For Work, Message Me</h3>
+<h3 align="center">Available For Work, Message Me linkedin</h3>
 
 <h3 align="left">About Me</h3>
 
