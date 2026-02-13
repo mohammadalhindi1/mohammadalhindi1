@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋👋, I am Mohammad Alhindi</h1>
+<h1 align="center">Hey There 👋, I am Mohammad Alhindi</h1>
 <h3 align="center">Open to DevOps & Cloud Opportunities</h3>
 
 <h3 align="left">About Me</h3>
