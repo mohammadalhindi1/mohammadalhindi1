@@ -29,11 +29,10 @@
 
 <p align="left">
 I am a DevOps Engineer who loves building scalable cloud systems.<br><br>
-- 🚀 Passionate about cloud computing and fast development cycles.<br>
-- 🎓 Graduated from LTUC with a BSc in Cloud Computing.<br>
-- 🏫 Currently enrolled in 42 Amman Core program.<br>
-- 📚 AWS Solutions Architect<br>
-- 🎯 Focused on cloud infrastructure, automation, and scalable systems.<br>
+- Passionate about cloud computing and fast development cycles. 🚀<br>
+- Graduated from LTUC with a BSc in Cloud Computing. 🎓<br>
+- Currently enrolled in 42 Amman Core program. 🏫<br>
+- Focused on cloud infrastructure, automation, and scalable systems. 🎯<br>
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
