@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi1.mohammadalhindi1" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi.mohammadalhindi" alt="Profile views" />
 </div>
 
 ###
