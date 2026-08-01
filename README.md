@@ -62,6 +62,8 @@ A production-minded FastAPI microservice that follows the delivery path from app
 
 </details>
 
+<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
+
 <details>
 <summary><strong>Operations Observability Lab | Monitoring & Incident Response</strong></summary>
 
@@ -76,8 +78,6 @@ A NOC/SOC-style environment for detecting, investigating, and documenting operat
 [View repository](https://github.com/mohammadalhindi1/ops-observability-noc-soc-lab)
 
 </details>
-
-<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
 
 <details>
 <summary><strong>Networking Handbook | Fundamentals to Cloud</strong></summary>
