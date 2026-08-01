@@ -1,13 +1,18 @@
+<img align="left" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/devops-infinity.svg" alt="Animated DevOps infinity loop" />
+<img align="right" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/devops-infinity.svg" alt="Animated DevOps infinity loop" />
+
 <div align="center">
   <h1>Mohammad Alhindi</h1>
-  <p><strong>DevOps & Cloud Engineering Graduate</strong></p>
-  <p>Cloud Infrastructure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Observability &nbsp;·&nbsp; Systems Engineering</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=950&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=DevOps+Engineer;Software+Engineer;Cloud+Infrastructure+Engineer;Backend+Engineer;Linux+%26+Systems+Engineer" alt="Animated engineering roles" />
+  <p>Designing, automating, and operating reliable systems.</p>
   <p>
     <a href="https://www.linkedin.com/in/mohammad-alhendi13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
     <a href="https://github.com/mohammadalhindi1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi.mohammadalhindi" alt="Profile views" />
   </p>
 </div>
+
+<br clear="both">
 
 ## Technology Stack
 
@@ -33,9 +38,17 @@
 
 ## About Me
 
-Cloud Computing graduate from LTUC, currently continuing project-based software engineering training at 42 Amman. I focus on reliable infrastructure and delivery workflows, connecting Linux and networking fundamentals with containers, cloud services, automation, monitoring, and backend engineering.
+<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
+
+I build infrastructure and software projects across DevOps, cloud platforms, backend services, and systems engineering. My work is hands-on: containerizing applications, automating delivery, deploying workloads, monitoring services, and documenting the engineering behind each project.
+
+**Current focus:** AWS · Terraform · Kubernetes · CI/CD · Observability
+
+**Engineering foundation:** Linux · Networking · C/C++ · Python · Backend APIs
 
 **Open to:** DevOps · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
+
+<br clear="both">
 
 ## Explore My Work
 
