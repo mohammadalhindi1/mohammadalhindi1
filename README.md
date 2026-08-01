@@ -35,8 +35,6 @@
 
 ## About Me
 
-<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
-
 I build infrastructure and software projects across DevOps, cloud platforms, backend services, and systems engineering. My work is hands-on: containerizing applications, automating delivery, deploying workloads, monitoring services, and documenting the engineering behind each project.
 
 **Current focus:** AWS · Terraform · Kubernetes · CI/CD · Observability
@@ -46,6 +44,8 @@ I build infrastructure and software projects across DevOps, cloud platforms, bac
 **Open to:** DevOps · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
 
 <br clear="both">
+
+<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
 
 ## Explore My Work
 
