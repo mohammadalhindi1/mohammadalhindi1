@@ -1,4 +1,5 @@
 <img align="left" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/devops-infinity.svg" alt="Animated DevOps infinity loop" />
+<img align="right" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/header-spacer.svg" alt="" />
 
 <div align="center">
   <h1>Mohammad Alhindi</h1>
