@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="118" viewBox="0 0 240 118" role="img" aria-labelledby="title description">
+  <title id="title">Animated DevOps infinity loop</title>
+  <desc id="description">A compact blue and cyan infinity loop with flowing light and DevOps labels.</desc>
+
+  <defs>
+    <linearGradient id="loop" x1="36" y1="22" x2="204" y2="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="0.48" stop-color="#3b82f6" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+    <radialGradient id="panel" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#172554" stop-opacity="0.64" />
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0.96" />
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path id="infinity" pathLength="100" d="M36 59 C55 25 82 24 108 59 C134 94 163 94 204 59 C164 24 135 24 108 59 C81 94 55 93 36 59" />
+  </defs>
+
+  <rect x="1" y="1" width="238" height="116" rx="20" fill="url(#panel)" stroke="#30363d" />
+  <g opacity="0.62" stroke="#38bdf8" stroke-width="1">
+    <path d="M13 29 H34 M206 29 H227 M13 89 H34 M206 89 H227" />
+    <circle cx="13" cy="29" r="2.5" fill="#38bdf8"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" /></circle>
+    <circle cx="227" cy="29" r="2.5" fill="#38bdf8"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite" /></circle>
+    <circle cx="13" cy="89" r="2.5" fill="#8b5cf6"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite" /></circle>
+    <circle cx="227" cy="89" r="2.5" fill="#8b5cf6"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <use href="#infinity" fill="none" stroke="#1e293b" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" />
+  <use href="#infinity" fill="none" stroke="url(#loop)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="13 7" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="3.6s" repeatCount="indefinite" />
+  </use>
+
+  <circle r="4" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="4.8s" repeatCount="indefinite">
+      <mpath href="#infinity" />
+    </animateMotion>
+  </circle>
+  <circle r="3" fill="#22d3ee" filter="url(#glow)">
+    <animateMotion dur="4.8s" begin="-2.4s" repeatCount="indefinite">
+      <mpath href="#infinity" />
+    </animateMotion>
+  </circle>
+
+  <g fill="#e6edf3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.2">
+    <text x="73" y="64">DEV</text>
+    <text x="166" y="64">OPS</text>
+  </g>
+</svg>
