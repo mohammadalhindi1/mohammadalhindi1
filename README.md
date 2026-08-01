@@ -1,225 +1,150 @@
-<a id="top"></a>
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:06B6D4&height=195&section=header&text=Mohammad%20Alhindi&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineering%20Graduate&descAlignY=56&descSize=19" alt="Mohammad Alhindi — DevOps and Cloud Engineering Graduate" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Cloud+Infrastructure+%7C+Automation+%7C+Observability;Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+CI%2FCD+%7C+Monitoring+%7C+Networking;Building%2C+breaking%2C+debugging%2C+and+improving" alt="Animated professional focus" />
-
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/mohammad-alhendi13">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://github.com/mohammadalhindi1?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
-  </a>
-
-  <br><br>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi.mohammadalhindi" alt="Profile views" />
+  <h1>Mohammad Alhindi</h1>
+  <p><strong>DevOps & Cloud Engineering Graduate</strong></p>
+  <p>Cloud Infrastructure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Observability &nbsp;·&nbsp; Systems Engineering</p>
+  <p>
+    <a href="https://www.linkedin.com/in/mohammad-alhendi13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="https://github.com/mohammadalhindi1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi.mohammadalhindi" alt="Profile views" />
+  </p>
 </div>
 
----
-
-## 👋 About Me
-
-I am a **Cloud Computing graduate** building practical experience across DevOps, infrastructure, automation, observability, networking, and systems engineering.
-
-- 🎓 BSc in **Cloud Computing** from LTUC.
-- 🏫 Continuing project-based software engineering training through the **42 Amman Core Program**.
-- ⚙️ I build containerized services, Kubernetes labs, CI/CD workflows, monitoring environments, and technical learning repositories.
-- 🐧 I strengthen the foundations behind modern infrastructure through Linux, networking, C, and C++.
-- 💼 Open to **DevOps, Cloud Infrastructure, Platform Engineering, and Backend Infrastructure** opportunities.
+## Technology Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cloud-Infrastructure-2563EB?style=flat-square" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Delivery-Automation-0EA5E9?style=flat-square" alt="Delivery Automation" />
-  <img src="https://img.shields.io/badge/Operations-Observability-0891B2?style=flat-square" alt="Operations and Observability" />
-  <img src="https://img.shields.io/badge/Foundation-Linux%20%26%20Networking-0F172A?style=flat-square" alt="Linux and Networking" />
+  <strong>Cloud & Infrastructure</strong><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,docker,kubernetes,terraform,nginx&theme=dark" alt="Cloud and infrastructure tools" /><br>
+  <strong>Automation & Operations</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,prometheus,grafana&theme=dark" alt="Automation and operations tools" /><br>
+  <strong>Programming, Backend & Data</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,c,cpp,java,js,react,postgres,mysql&theme=dark" alt="Programming, backend, and database technologies" />
 </div>
 
----
+## GitHub Snapshot
 
-## 🚀 Explore My Work
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
+  <p>
+    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
+    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
+    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
+  </p>
+</div>
 
-Click a project to show its purpose, engineering evidence, and stack.
+## About Me
 
-<details open>
-<summary><strong>⚡ Task Service — FastAPI, Docker & Kubernetes</strong></summary>
+Cloud Computing graduate from LTUC, currently continuing project-based software engineering training at 42 Amman. I focus on reliable infrastructure and delivery workflows, connecting Linux and networking fundamentals with containers, cloud services, automation, monitoring, and backend engineering.
 
-<br>
+**Open to:** DevOps · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
 
-A production-minded FastAPI microservice used to practice the delivery path from application code to a running Kubernetes service.
+## Explore My Work
+
+<details>
+<summary><strong>Task Service | FastAPI, Docker & Kubernetes</strong></summary>
+
+A production-minded FastAPI microservice that follows the delivery path from application code to a running Kubernetes service.
 
 - Multi-stage Docker image and Docker Compose workflow.
-- Kubernetes namespace, Deployment, Service, readiness probe, and liveness probe.
+- Kubernetes Deployment, Service, readiness probe, and liveness probe.
 - Health endpoint plus repeatable build and deployment scripts.
 
 **Stack:** FastAPI · Python · Docker · Docker Compose · Kubernetes · Bash
 
-[Open repository →](https://github.com/mohammadalhindi1/DevOps)
+[View repository](https://github.com/mohammadalhindi1/DevOps)
 
 </details>
 
 <details>
-<summary><strong>📊 Operations Observability & Incident Response Lab</strong></summary>
+<summary><strong>Operations Observability Lab | Monitoring & Incident Response</strong></summary>
 
-<br>
+A NOC/SOC-style environment for detecting, investigating, and documenting operational failures.
 
-A NOC/SOC-style environment focused on detecting, investigating, and documenting operational failures.
-
-- Metrics collection, dashboards, alert rules, and alert routing.
-- Centralized container logs and service/host monitoring.
-- Failure simulations, runbooks, incident reports, and root cause analysis.
+- Metrics, dashboards, alert rules, alert routing, and centralized logs.
+- Service and host monitoring with realistic failure simulations.
+- Runbooks, incident reports, and root cause analysis.
 
 **Stack:** Prometheus · Grafana · Loki · Alertmanager · Promtail · Docker Compose · Nginx
 
-[Open repository →](https://github.com/mohammadalhindi1/ops-observability-noc-soc-lab)
+[View repository](https://github.com/mohammadalhindi1/ops-observability-noc-soc-lab)
 
 </details>
 
 <details>
-<summary><strong>🌐 Networking Fundamentals Handbook</strong></summary>
-
-<br>
+<summary><strong>Networking Handbook | Fundamentals to Cloud</strong></summary>
 
 A structured networking reference connecting packet-level fundamentals to modern infrastructure.
 
 - 29 chapters and 20 hands-on labs.
-- OSI, TCP/IP, subnetting, routing, VLANs, DNS, DHCP, NAT, and IPv6.
-- Linux networking, Wireshark, troubleshooting, Docker, Kubernetes, and AWS networking.
+- TCP/IP, subnetting, routing, VLANs, DNS, DHCP, NAT, and IPv6.
+- Linux networking, Wireshark, Docker, Kubernetes, and AWS networking.
 
 **Stack:** TCP/IP · Linux · Wireshark · Docker · Kubernetes · AWS
 
-[Open repository →](https://github.com/mohammadalhindi1/networking-handbook)
+[View repository](https://github.com/mohammadalhindi1/networking-handbook)
 
 </details>
 
 <details>
-<summary><strong>🐳 Docker: From Zero to Deployment</strong></summary>
+<summary><strong>Docker | From Zero to Deployment</strong></summary>
 
-<br>
+A practical guide built around concepts, repeatable commands, labs, troubleshooting, and secure container workflows.
 
-A practical Docker reference built around concepts, repeatable commands, labs, troubleshooting, and secure container workflows.
-
-- Images, containers, registries, Dockerfiles, layers, and build cache.
+- Images, containers, Dockerfiles, layers, registries, and build cache.
 - Volumes, networking, Compose, lifecycle, signals, and health checks.
-- Security practices, troubleshooting playbooks, and a multi-service example.
+- Security practices and a complete multi-service example.
 
 **Stack:** Docker · Docker Compose · Nginx · Python · GitHub Actions
 
-[Open repository →](https://github.com/mohammadalhindi1/Docker-From-Zero-to-Deployment)
+[View repository](https://github.com/mohammadalhindi1/Docker-From-Zero-to-Deployment)
 
 </details>
 
 <details>
-<summary><strong>🧭 DevOps Roadmap: Zero to Production</strong></summary>
+<summary><strong>DevOps Roadmap | Zero to Production</strong></summary>
 
-<br>
-
-A living, project-based roadmap that connects fundamentals to advanced operations work.
+A living, project-based roadmap connecting engineering fundamentals to production operations.
 
 - Linux, networking, Git, scripting, containers, CI/CD, cloud, and Infrastructure as Code.
-- Kubernetes, observability, DevSecOps, reliability, and production operations.
-- Advanced directions including SRE, Platform Engineering, GitOps, FinOps, and AIOps.
+- Kubernetes, observability, DevSecOps, reliability, and operations.
+- Advanced paths through SRE, Platform Engineering, GitOps, FinOps, and AIOps.
 
-[Open repository →](https://github.com/mohammadalhindi1/roadmap.DevOps)
+[View repository](https://github.com/mohammadalhindi1/roadmap.DevOps)
 
 </details>
 
 <details>
-<summary><strong>🧠 Show Systems Engineering & 42 Amman Projects</strong></summary>
-
-<br>
+<summary><strong>Systems Engineering | 42 Amman Projects</strong></summary>
 
 | Project | What It Demonstrates |
 |---|---|
-| [**Born2beRoot**](https://github.com/mohammadalhindi1/Born2beRoot) | Linux administration, virtualization, encrypted LVM, SSH, firewall rules, sudo/PAM policies, systemd, cron, and Bash monitoring |
-| [**Minishell**](https://github.com/mohammadalhindi1/Minishell) | UNIX processes, parsing, pipes, redirections, environment expansion, signals, and file descriptors |
-| [**Philosophers**](https://github.com/mohammadalhindi1/Philosophers) | POSIX threads, mutexes, synchronization, timing, race prevention, and deadlock handling |
-| [**NetPractice**](https://github.com/mohammadalhindi1/Net_Practice) | Ten documented IPv4 levels covering subnetting, gateways, routers, routing tables, and troubleshooting |
+| [Born2beRoot](https://github.com/mohammadalhindi1/Born2beRoot) | Linux administration, virtualization, encrypted LVM, SSH, firewall rules, sudo and PAM policies, systemd, cron, and Bash monitoring |
+| [Minishell](https://github.com/mohammadalhindi1/Minishell) | UNIX processes, parsing, pipes, redirections, environment expansion, signals, and file descriptors |
+| [Philosophers](https://github.com/mohammadalhindi1/Philosophers) | POSIX threads, mutexes, synchronization, timing, race prevention, and deadlock handling |
+| [NetPractice](https://github.com/mohammadalhindi1/Net_Practice) | Ten documented IPv4 levels covering subnetting, gateways, routers, routing tables, and troubleshooting |
 
 </details>
 
----
-
-## 🧰 Core Toolkit
+## GitHub Activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,githubactions,prometheus,grafana&theme=dark" alt="Core DevOps and cloud toolkit" />
+  <img src="https://streak-stats.demolab.com?user=mohammadalhindi1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub contribution and streak statistics" />
 </div>
 
-<details>
-<summary><strong>🛠️ Show Full Technology Stack</strong></summary>
-
-<br>
-
-<div align="center">
-
-**Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,docker,kubernetes,terraform,nginx&theme=dark" alt="Cloud and infrastructure tools" />
-
-<br><br>
-
-**Automation & Operations**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,prometheus,grafana&theme=dark" alt="Automation and operations tools" />
-
-<br><br>
-
-**Programming, Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,c,cpp,java,js,react,postgres,mysql&theme=dark" alt="Programming, backend, and database technologies" />
-
-</div>
-
-</details>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadalhindi1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub contribution total and streak statistics" />
-</div>
-
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Snake animation moving through Mohammad Alhindi's GitHub contribution grid" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake moving through Mohammad Alhindi's GitHub contribution grid" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<details>
-<summary><strong>📈 Show Detailed GitHub Statistics</strong></summary>
-
-<br>
+## Connect
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
-</div>
-
-</details>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-  <p>Interested in DevOps, cloud infrastructure, platform engineering, backend infrastructure, and collaborative technical projects.</p>
-
-  <a href="https://www.linkedin.com/in/mohammad-alhendi13">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Alhindi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Alhindi on LinkedIn" />
-  </a>
-  <a href="https://github.com/mohammadalhindi1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mohammad Alhindi on GitHub" />
-  </a>
-
-  <br><br>
-
+  <p>Open to DevOps, cloud infrastructure, platform engineering, backend infrastructure, and collaborative technical projects.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/mohammad-alhendi13"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Alhindi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Alhindi on LinkedIn" /></a>
+    <a href="https://github.com/mohammadalhindi1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mohammad Alhindi on GitHub" /></a>
+  </p>
   <strong>Understand deeply. Build practically. Automate what repeats.</strong>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:06B6D4&height=100&section=footer" alt="" />
