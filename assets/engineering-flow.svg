@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-labelledby="title description">
+  <title id="title">Animated engineering delivery flow</title>
+  <desc id="description">A professional animated panel connecting code, build, deploy, and observe stages.</desc>
+
+  <defs>
+    <linearGradient id="flow" x1="52" y1="0" x2="368" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="0.5" stop-color="#3b82f6" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+    <radialGradient id="surface" cx="34%" cy="12%" r="90%">
+      <stop offset="0" stop-color="#172554" />
+      <stop offset="0.58" stop-color="#111827" />
+      <stop offset="1" stop-color="#0d1117" />
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path id="delivery" pathLength="100" d="M61 116 C92 74 121 74 151 116 S211 158 241 116 S301 74 359 116" />
+  </defs>
+
+  <rect x="1" y="1" width="418" height="218" rx="22" fill="url(#surface)" stroke="#30363d" />
+  <path d="M22 47 H152 L168 31 H397" fill="none" stroke="#1e3a5f" stroke-width="1" />
+  <circle cx="22" cy="47" r="3" fill="#22d3ee"><animate attributeName="opacity" values=".35;1;.35" dur="2.5s" repeatCount="indefinite" /></circle>
+  <circle cx="397" cy="31" r="3" fill="#8b5cf6"><animate attributeName="opacity" values="1;.35;1" dur="2.5s" repeatCount="indefinite" /></circle>
+
+  <text x="22" y="29" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">ENGINEERING DELIVERY LOOP</text>
+
+  <use href="#delivery" fill="none" stroke="#1f2937" stroke-width="9" stroke-linecap="round" />
+  <use href="#delivery" fill="none" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 8" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="4.2s" repeatCount="indefinite" />
+  </use>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(61 116)">
+      <circle r="28" fill="#0f172a" stroke="#22d3ee" stroke-width="2" />
+      <path d="M-11 -7 L-18 0 L-11 7 M11 -7 L18 0 L11 7 M4 -13 L-4 13" fill="none" stroke="#e6edf3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <circle r="31" fill="none" stroke="#22d3ee" opacity="0.34"><animate attributeName="r" values="29;34;29" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values=".45;.08;.45" dur="2.8s" repeatCount="indefinite" /></circle>
+    </g>
+    <g transform="translate(151 116)">
+      <circle r="28" fill="#0f172a" stroke="#38bdf8" stroke-width="2" />
+      <path d="M0 -15 L14 -7 V9 L0 17 L-14 9 V-7 Z M0 -15 V1 M14 -7 L0 1 L-14 -7 M0 1 V17" fill="none" stroke="#e6edf3" stroke-width="2" stroke-linejoin="round" />
+      <circle r="31" fill="none" stroke="#38bdf8" opacity="0.34"><animate attributeName="r" values="29;34;29" dur="2.8s" begin="-.7s" repeatCount="indefinite" /><animate attributeName="opacity" values=".45;.08;.45" dur="2.8s" begin="-.7s" repeatCount="indefinite" /></circle>
+    </g>
+    <g transform="translate(241 116)">
+      <circle r="28" fill="#0f172a" stroke="#3b82f6" stroke-width="2" />
+      <path d="M-17 8 C-20 1 -15 -5 -8 -5 C-5 -16 10 -16 14 -6 C23 -6 25 7 17 11 H-14 C-16 11 -17 10 -17 8 Z M0 -7 V9 M-6 3 L0 9 L6 3" fill="none" stroke="#e6edf3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+      <circle r="31" fill="none" stroke="#3b82f6" opacity="0.34"><animate attributeName="r" values="29;34;29" dur="2.8s" begin="-1.4s" repeatCount="indefinite" /><animate attributeName="opacity" values=".45;.08;.45" dur="2.8s" begin="-1.4s" repeatCount="indefinite" /></circle>
+    </g>
+    <g transform="translate(359 116)">
+      <circle r="28" fill="#0f172a" stroke="#8b5cf6" stroke-width="2" />
+      <path d="M-16 12 V-11 M-16 12 H17 M-10 5 L-2 -3 L5 2 L15 -10 M11 -10 H15 V-6" fill="none" stroke="#e6edf3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+      <circle r="31" fill="none" stroke="#8b5cf6" opacity="0.34"><animate attributeName="r" values="29;34;29" dur="2.8s" begin="-2.1s" repeatCount="indefinite" /><animate attributeName="opacity" values=".45;.08;.45" dur="2.8s" begin="-2.1s" repeatCount="indefinite" /></circle>
+    </g>
+
+    <g fill="#c9d1d9" font-size="11" font-weight="700" letter-spacing="1">
+      <text x="61" y="171">CODE</text>
+      <text x="151" y="171">BUILD</text>
+      <text x="241" y="171">DEPLOY</text>
+      <text x="359" y="171">OBSERVE</text>
+    </g>
+  </g>
+
+  <circle r="4" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="5.4s" repeatCount="indefinite">
+      <mpath href="#delivery" />
+    </animateMotion>
+  </circle>
+  <circle r="3.2" fill="#22d3ee" filter="url(#glow)">
+    <animateMotion dur="5.4s" begin="-2.7s" repeatCount="indefinite">
+      <mpath href="#delivery" />
+    </animateMotion>
+  </circle>
+
+  <path d="M22 193 H132 L144 205 H397" fill="none" stroke="#1e3a5f" stroke-width="1" />
+  <circle cx="22" cy="193" r="2.5" fill="#38bdf8" />
+  <circle cx="397" cy="205" r="2.5" fill="#8b5cf6" />
+</svg>
