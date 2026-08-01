@@ -1,5 +1,4 @@
 <img align="left" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/devops-infinity.svg" alt="Animated DevOps infinity loop" />
-<img align="right" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/devops-infinity.svg" alt="Animated DevOps infinity loop" />
 
 <div align="center">
   <h1>Mohammad Alhindi</h1>
@@ -11,8 +10,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammadalhindi.mohammadalhindi" alt="Profile views" />
   </p>
 </div>
-
-<br clear="both">
 
 ## Technology Stack
 
