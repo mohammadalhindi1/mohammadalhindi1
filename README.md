@@ -45,8 +45,6 @@ I build infrastructure and software projects across DevOps, cloud platforms, bac
 
 <br clear="both">
 
-<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
-
 ## Explore My Work
 
 <details>
@@ -78,6 +76,8 @@ A NOC/SOC-style environment for detecting, investigating, and documenting operat
 [View repository](https://github.com/mohammadalhindi1/ops-observability-noc-soc-lab)
 
 </details>
+
+<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
 
 <details>
 <summary><strong>Networking Handbook | Fundamentals to Cloud</strong></summary>
