@@ -35,15 +35,13 @@
 
 ## About Me
 
-I build infrastructure and software projects across DevOps, cloud platforms, backend services, and systems engineering. My work is hands-on: containerizing applications, automating delivery, deploying workloads, monitoring services, and documenting the engineering behind each project.
+I build infrastructure and backend systems across DevOps, cloud platforms, and systems engineering, with a practical focus on automation, deployment, observability, Linux, and networking.
 
-**Current focus:** AWS · Terraform · Kubernetes · CI/CD · Observability
+| Build | Automate | Operate |
+|:---:|:---:|:---:|
+| Backend APIs · Containerized services | CI/CD · Terraform · Kubernetes | AWS · Linux · Networking · Observability |
 
-**Engineering foundation:** Linux · Networking · C/C++ · Python · Backend APIs
-
-**Open to:** DevOps · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
-
-<br clear="both">
+**Current direction:** DevOps Engineering · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
 
 ## Explore My Work
 
