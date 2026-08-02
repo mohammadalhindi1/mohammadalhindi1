@@ -2,7 +2,7 @@
 <img align="right" width="135" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/header-spacer.svg" alt="" />
 
 <div align="center">
-  <h1>Mohammad Alhindi</h1>
+  <h1>Mohammad Alhendi</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=950&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=DevOps+Engineer;Software+Engineer;Cloud+Infrastructure+Engineer;Backend+Engineer;Linux+%26+Systems+Engineer" alt="Animated engineering roles" />
   <p>Designing, automating, and operating reliable systems.</p>
   <p>
