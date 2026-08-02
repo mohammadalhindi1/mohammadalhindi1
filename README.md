@@ -44,10 +44,6 @@ I build infrastructure and backend systems across DevOps, cloud platforms, and s
 
 **Current direction:** DevOps Engineering · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
 
-<p align="right">
-  <img width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
-</p>
-
 ## Explore My Work
 
 <details>
@@ -65,6 +61,9 @@ A production-minded FastAPI microservice that follows the delivery path from app
 
 </details>
 
+<p align="right">
+  <img width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
+</p>
 
 <details>
 <summary><strong>Operations Observability Lab | Monitoring & Incident Response</strong></summary>
