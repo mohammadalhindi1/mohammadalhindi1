@@ -19,8 +19,8 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,docker,kubernetes,terraform,nginx&theme=dark" alt="Cloud and infrastructure tools" /><br>
   <strong>Automation & Operations</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,prometheus,grafana&theme=dark" alt="Automation and operations tools" /><br>
-  <strong>Programming, Backend & Data</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,c,cpp,java,js,react,postgres,mysql&theme=dark" alt="Programming, backend, and database technologies" />
+  <strong>Programming, Web, Backend & Data</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,c,cpp,java,js,react,nextjs,postgres,mysql,firebase&theme=dark" alt="Programming, web, backend, and data technologies" />
 </div>
 
 ## GitHub Snapshot
@@ -44,6 +44,10 @@ I build infrastructure and backend systems across DevOps, cloud platforms, and s
 
 **Current direction:** DevOps Engineering · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
 
+<p align="right">
+  <img width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
+</p>
+
 ## Explore My Work
 
 <details>
@@ -61,7 +65,6 @@ A production-minded FastAPI microservice that follows the delivery path from app
 
 </details>
 
-<img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
 
 <details>
 <summary><strong>Operations Observability Lab | Monitoring & Incident Response</strong></summary>
