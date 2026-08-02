@@ -145,7 +145,6 @@ A living, project-based roadmap connecting engineering fundamentals to productio
     <a href="https://www.linkedin.com/in/mohammad-alhendi13"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Alhindi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Alhindi on LinkedIn" /></a>
     <a href="https://github.com/mohammadalhindi1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mohammad Alhindi on GitHub" /></a>
   </p>
-  <strong>Understand deeply. Build practically. Automate what repeats.</strong>
 </div>
 
 <div align="center">
