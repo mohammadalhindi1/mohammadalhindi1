@@ -23,17 +23,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,c,cpp,java,js,react,nextjs,postgres,mysql,firebase&theme=dark" alt="Programming, web, backend, and data technologies" />
 </div>
 
-## GitHub Snapshot
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
-  <p>
-    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
-    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
-    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
-  </p>
-</div>
-
 ## About Me
 
 I build infrastructure and backend systems across DevOps, cloud platforms, and systems engineering, with a practical focus on automation, deployment, observability, Linux, and networking.
@@ -147,6 +136,17 @@ A living, project-based roadmap connecting engineering fundamentals to productio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
   <img width="100%" alt="Animated contribution snake moving through Mohammad Alhindi's GitHub contribution grid" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## GitHub Snapshot
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
+  <p>
+    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
+    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
+    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
+  </p>
+</div>
 
 ## Connect
 
