@@ -29,7 +29,7 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
   <p>
     <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
-    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="15 private repositories" />
+    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
     <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
   </p>
 </div>
