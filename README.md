@@ -137,17 +137,6 @@ A living, project-based roadmap connecting engineering fundamentals to productio
   <img width="100%" alt="Animated contribution snake moving through Mohammad Alhindi's GitHub contribution grid" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## GitHub Snapshot
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
-  <p>
-    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
-    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
-    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
-  </p>
-</div>
-
 ## Connect
 
 <div align="center">
@@ -157,4 +146,13 @@ A living, project-based roadmap connecting engineering fundamentals to productio
     <a href="https://github.com/mohammadalhindi1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mohammad Alhindi on GitHub" /></a>
   </p>
   <strong>Understand deeply. Build practically. Automate what repeats.</strong>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadalhindi1&theme=tokyonight&animation=load" alt="Detailed GitHub profile statistics" />
+  <p>
+    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
+    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
+    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
+  </p>
 </div>
