@@ -1,42 +1,83 @@
 {
   "display_name": "Mohammad Alhindi",
   "login": "malhendi",
-  "campus": "42 Amman",
+  "campus": "Amman",
   "cursus": "42cursus",
   "grade": "Cadet",
   "level": 4.28,
   "current_projects": [
-    "cub3D"
+    "CPP Module 03",
+    "cub3d"
   ],
   "projects": [
     {
+      "name": "CPP Module 02",
+      "score": 80,
+      "completed_at": "2026-07-29T17:12:44.519Z",
+      "validated": true,
+      "description": "Object-oriented C++, canonical classes, inheritance, polymorphism, and templates.",
+      "repository": "https://github.com/mohammadalhindi1/CPP-Module-0to4"
+    },
+    {
+      "name": "CPP Module 01",
+      "score": 90,
+      "completed_at": "2026-07-18T10:21:37.914Z",
+      "validated": true,
+      "description": "Object-oriented C++, canonical classes, inheritance, polymorphism, and templates.",
+      "repository": "https://github.com/mohammadalhindi1/CPP-Module-0to4"
+    },
+    {
+      "name": "CPP Module 00",
+      "score": 80,
+      "completed_at": "2026-07-16T09:48:44.219Z",
+      "validated": true,
+      "description": "Object-oriented C++, canonical classes, inheritance, polymorphism, and templates.",
+      "repository": "https://github.com/mohammadalhindi1/CPP-Module-0to4"
+    },
+    {
       "name": "NetPractice",
       "score": 100,
-      "completed_at": "2026-06-16",
+      "completed_at": "2026-06-16T18:48:50.240Z",
       "validated": true,
       "description": "IPv4 addressing, subnetting, routing tables, gateways, and network troubleshooting.",
       "repository": "https://github.com/mohammadalhindi1/Net_Practice"
     },
     {
+      "name": "Exam Rank 03",
+      "score": 100,
+      "completed_at": "2026-06-11T08:52:34.956Z",
+      "validated": true,
+      "description": "A validated project from the 42 Core Curriculum.",
+      "repository": ""
+    },
+    {
       "name": "Philosophers",
       "score": 100,
-      "completed_at": "2026-05-11",
+      "completed_at": "2026-05-11T20:20:23.903Z",
       "validated": true,
       "description": "POSIX threads, mutexes, synchronization, timing, and deadlock prevention.",
       "repository": "https://github.com/mohammadalhindi1/Philosophers"
     },
     {
-      "name": "Minishell",
+      "name": "minishell",
       "score": 100,
-      "completed_at": "2026-01-24",
+      "completed_at": "2026-01-24T19:57:46.531Z",
       "validated": true,
       "description": "UNIX processes, parsing, pipes, redirections, signals, and environment expansion.",
       "repository": "https://github.com/mohammadalhindi1/Minishell"
     },
     {
-      "name": "Pipex",
+      "name": "Exam Rank 02",
       "score": 100,
-      "completed_at": "2025-12-12",
+      "completed_at": "2025-12-31T09:13:09.901Z",
+      "validated": true,
+      "description": "A validated project from the 42 Core Curriculum.",
+      "repository": ""
+    },
+    {
+      "name": "pipex",
+      "score": 100,
+      "completed_at": "2025-12-12T12:23:08.883Z",
       "validated": true,
       "description": "Process creation, pipes, file descriptors, redirection, and execve.",
       "repository": "https://github.com/mohammadalhindi1/Pipex"
@@ -44,23 +85,23 @@
     {
       "name": "so_long",
       "score": 105,
-      "completed_at": "2025-11-06",
+      "completed_at": "2025-11-05T23:25:06.935Z",
       "validated": true,
       "description": "2D graphics, event handling, map parsing, validation, and MiniLibX.",
       "repository": "https://github.com/mohammadalhindi1/so_long"
     },
     {
       "name": "push_swap",
-      "score": null,
-      "completed_at": "2025-10-18",
+      "score": 96,
+      "completed_at": "2025-10-18T20:15:24.649Z",
       "validated": true,
       "description": "Stack sorting algorithms, operation constraints, and move-count optimization.",
       "repository": "https://github.com/mohammadalhindi1/push-swap"
     },
     {
-      "name": "Born2beRoot",
+      "name": "Born2beroot",
       "score": 123,
-      "completed_at": "2025-09-29",
+      "completed_at": "2025-09-29T20:18:10.444Z",
       "validated": true,
       "description": "Linux administration, virtualization, LVM, SSH, security policies, and monitoring.",
       "repository": "https://github.com/mohammadalhindi1/Born2beRoot"
@@ -68,7 +109,7 @@
     {
       "name": "get_next_line",
       "score": 125,
-      "completed_at": "2025-09-15",
+      "completed_at": "2025-09-14T21:22:01.042Z",
       "validated": true,
       "description": "Buffered file-descriptor reading, static state, and careful memory management.",
       "repository": "https://github.com/mohammadalhindi1/git_next_line"
@@ -76,7 +117,7 @@
     {
       "name": "ft_printf",
       "score": 100,
-      "completed_at": "2025-09-03",
+      "completed_at": "2025-09-03T17:25:25.782Z",
       "validated": true,
       "description": "Variadic functions, formatted output, parsing, and conversion handling.",
       "repository": "https://github.com/mohammadalhindi1/ft_printf"
@@ -84,7 +125,7 @@
     {
       "name": "Libft",
       "score": 100,
-      "completed_at": "2025-08-25",
+      "completed_at": "2025-08-25T18:44:04.231Z",
       "validated": true,
       "description": "A foundational C library covering memory, strings, lists, and reusable utilities.",
       "repository": "https://github.com/mohammadalhindi1/Libft"
