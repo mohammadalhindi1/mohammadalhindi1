@@ -123,6 +123,35 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 
 </details>
 
+## 42 Amman Core Curriculum
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/42-profile.svg" alt="Mohammad Alhindi's 42 Amman progress" />
+</p>
+
+<details>
+<summary><strong>Read more | Project scores and engineering focus</strong></summary>
+
+<!-- 42_PROJECTS:START -->
+**Current project:** cub3D  
+**Validated projects:** 10
+
+| Project | Score | What it demonstrates |
+|---|:---:|---|
+| [NetPractice](https://github.com/mohammadalhindi1/Net_Practice) | **100** | IPv4 addressing, subnetting, routing tables, gateways, and network troubleshooting. |
+| [Philosophers](https://github.com/mohammadalhindi1/Philosophers) | **100** | POSIX threads, mutexes, synchronization, timing, and deadlock prevention. |
+| [Minishell](https://github.com/mohammadalhindi1/Minishell) | **100** | UNIX processes, parsing, pipes, redirections, signals, and environment expansion. |
+| [Pipex](https://github.com/mohammadalhindi1/Pipex) | **100** | Process creation, pipes, file descriptors, redirection, and execve. |
+| [so_long](https://github.com/mohammadalhindi1/so_long) | **105** | 2D graphics, event handling, map parsing, validation, and MiniLibX. |
+| [push_swap](https://github.com/mohammadalhindi1/push-swap) | Validated | Stack sorting algorithms, operation constraints, and move-count optimization. |
+| [Born2beRoot](https://github.com/mohammadalhindi1/Born2beRoot) | **123** | Linux administration, virtualization, LVM, SSH, security policies, and monitoring. |
+| [get_next_line](https://github.com/mohammadalhindi1/git_next_line) | **125** | Buffered file-descriptor reading, static state, and careful memory management. |
+| [ft_printf](https://github.com/mohammadalhindi1/ft_printf) | **100** | Variadic functions, formatted output, parsing, and conversion handling. |
+| [Libft](https://github.com/mohammadalhindi1/Libft) | **100** | A foundational C library covering memory, strings, lists, and reusable utilities. |
+<!-- 42_PROJECTS:END -->
+
+</details>
+
 ## GitHub Activity
 
 <div align="center">
