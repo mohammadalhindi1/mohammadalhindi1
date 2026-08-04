@@ -31,8 +31,6 @@ I build infrastructure and backend systems across DevOps, cloud platforms, and s
 |:---:|:---:|:---:|
 | Backend APIs · Containerized services | CI/CD · Terraform · Kubernetes | AWS · Linux · Networking · Observability |
 
-**Current direction:** DevOps Engineering · Cloud Infrastructure · Platform Engineering · Backend Infrastructure
-
 ## Explore My Work
 
 <img align="right" width="355" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/engineering-flow.svg" alt="Animated engineering delivery flow" />
