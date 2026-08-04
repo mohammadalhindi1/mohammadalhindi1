@@ -1,0 +1,59 @@
+name: Update 42 profile
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-42-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      FT_API_UID: ${{ secrets.FT_API_UID }}
+      FT_API_SECRET: ${{ secrets.FT_API_SECRET }}
+      FT_LOGIN: malhendi
+      FT_DISPLAY_NAME: Mohammad Alhindi
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate current 42 profile
+        id: generate
+        shell: bash
+        run: |
+          if [[ -z "$FT_API_UID" || -z "$FT_API_SECRET" ]]; then
+            echo "42 API secrets are not configured; keeping the manual snapshot."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          python scripts/update_42_profile.py --live
+
+          if git diff --quiet -- README.md assets/42-profile.svg data/42-profile.json; then
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated 42 data
+        if: steps.generate.outputs.updated == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/42-profile.svg data/42-profile.json
+          git commit -m "chore: update 42 profile progress"
+          git push
