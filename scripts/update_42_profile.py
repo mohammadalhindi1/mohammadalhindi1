@@ -103,7 +103,11 @@ def get_access_token(uid: str, secret: str) -> str:
     request = urllib.request.Request(
         "https://api.intra.42.fr/oauth/token",
         data=payload,
-        headers={"Accept": "application/json"},
+        headers={
+            "Accept": "application/json",
+            "Content-Type": "application/x-www-form-urlencoded",
+            "User-Agent": "mohammadalhindi1-profile-readme/1.0",
+        },
         method="POST",
     )
     with urllib.request.urlopen(request, timeout=30) as response:
