@@ -143,7 +143,7 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 | [Minishell](https://github.com/mohammadalhindi1/Minishell) | **100** | UNIX processes, parsing, pipes, redirections, signals, and environment expansion. |
 | [Pipex](https://github.com/mohammadalhindi1/Pipex) | **100** | Process creation, pipes, file descriptors, redirection, and execve. |
 | [so_long](https://github.com/mohammadalhindi1/so_long) | **105** | 2D graphics, event handling, map parsing, validation, and MiniLibX. |
-| [push_swap](https://github.com/mohammadalhindi1/push-swap) | Validated | Stack sorting algorithms, operation constraints, and move-count optimization. |
+| [push_swap](https://github.com/mohammadalhindi1/push-swap) | **96** | Stack sorting algorithms, operation constraints, and move-count optimization. |
 | [Born2beRoot](https://github.com/mohammadalhindi1/Born2beRoot) | **123** | Linux administration, virtualization, LVM, SSH, security policies, and monitoring. |
 | [get_next_line](https://github.com/mohammadalhindi1/git_next_line) | **125** | Buffered file-descriptor reading, static state, and careful memory management. |
 | [ft_printf](https://github.com/mohammadalhindi1/ft_printf) | **100** | Variadic functions, formatted output, parsing, and conversion handling. |
