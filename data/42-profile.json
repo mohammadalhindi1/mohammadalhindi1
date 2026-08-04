@@ -1,0 +1,93 @@
+{
+  "display_name": "Mohammad Alhindi",
+  "login": "malhendi",
+  "campus": "42 Amman",
+  "cursus": "42cursus",
+  "grade": "Cadet",
+  "level": 4.28,
+  "current_projects": [
+    "cub3D"
+  ],
+  "projects": [
+    {
+      "name": "NetPractice",
+      "score": 100,
+      "completed_at": "2026-06-16",
+      "validated": true,
+      "description": "IPv4 addressing, subnetting, routing tables, gateways, and network troubleshooting.",
+      "repository": "https://github.com/mohammadalhindi1/Net_Practice"
+    },
+    {
+      "name": "Philosophers",
+      "score": 100,
+      "completed_at": "2026-05-11",
+      "validated": true,
+      "description": "POSIX threads, mutexes, synchronization, timing, and deadlock prevention.",
+      "repository": "https://github.com/mohammadalhindi1/Philosophers"
+    },
+    {
+      "name": "Minishell",
+      "score": 100,
+      "completed_at": "2026-01-24",
+      "validated": true,
+      "description": "UNIX processes, parsing, pipes, redirections, signals, and environment expansion.",
+      "repository": "https://github.com/mohammadalhindi1/Minishell"
+    },
+    {
+      "name": "Pipex",
+      "score": 100,
+      "completed_at": "2025-12-12",
+      "validated": true,
+      "description": "Process creation, pipes, file descriptors, redirection, and execve.",
+      "repository": "https://github.com/mohammadalhindi1/Pipex"
+    },
+    {
+      "name": "so_long",
+      "score": 105,
+      "completed_at": "2025-11-06",
+      "validated": true,
+      "description": "2D graphics, event handling, map parsing, validation, and MiniLibX.",
+      "repository": "https://github.com/mohammadalhindi1/so_long"
+    },
+    {
+      "name": "push_swap",
+      "score": null,
+      "completed_at": "2025-10-18",
+      "validated": true,
+      "description": "Stack sorting algorithms, operation constraints, and move-count optimization.",
+      "repository": "https://github.com/mohammadalhindi1/push-swap"
+    },
+    {
+      "name": "Born2beRoot",
+      "score": 123,
+      "completed_at": "2025-09-29",
+      "validated": true,
+      "description": "Linux administration, virtualization, LVM, SSH, security policies, and monitoring.",
+      "repository": "https://github.com/mohammadalhindi1/Born2beRoot"
+    },
+    {
+      "name": "get_next_line",
+      "score": 125,
+      "completed_at": "2025-09-15",
+      "validated": true,
+      "description": "Buffered file-descriptor reading, static state, and careful memory management.",
+      "repository": "https://github.com/mohammadalhindi1/git_next_line"
+    },
+    {
+      "name": "ft_printf",
+      "score": 100,
+      "completed_at": "2025-09-03",
+      "validated": true,
+      "description": "Variadic functions, formatted output, parsing, and conversion handling.",
+      "repository": "https://github.com/mohammadalhindi1/ft_printf"
+    },
+    {
+      "name": "Libft",
+      "score": 100,
+      "completed_at": "2025-08-25",
+      "validated": true,
+      "description": "A foundational C library covering memory, strings, lists, and reusable utilities.",
+      "repository": "https://github.com/mohammadalhindi1/Libft"
+    }
+  ]
+}
