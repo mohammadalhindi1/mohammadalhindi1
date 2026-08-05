@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity for mohammadalhindi1</title>
+  <desc id="desc">617 contributions, 6 day current streak, and 19 day longest streak.</desc>
+  <style>
+    .card { fill: #0D1117; stroke: #30363D; stroke-width: 1; }
+    .title { fill: #F0F6FC; font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle { fill: #8B949E; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .number { fill: #38BDF8; font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .number-current { fill: #06B6D4; }
+    .label { fill: #C9D1D9; font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .range { fill: #8B949E; font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .divider { stroke: #21262D; stroke-width: 1; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="759" height="209" rx="12" />
+  <circle cx="25" cy="28" r="6" fill="#38BDF8" />
+  <text class="title" x="40" y="34">GitHub Activity</text>
+  <text class="subtitle" x="735" y="33" text-anchor="end">Updated 2026-08-05 UTC</text>
+  <line class="divider" x1="253" y1="61" x2="253" y2="177" />
+  <line class="divider" x1="506" y1="61" x2="506" y2="177" />
+
+  <g text-anchor="middle">
+    <text class="number" x="127" y="111">617</text>
+    <text class="label" x="127" y="137">Total Contributions</text>
+    <text class="range" x="127" y="158">Aug 3, 2025 – Aug 5, 2026</text>
+
+    <text class="number number-current" x="380" y="111">6</text>
+    <text class="label" x="380" y="137">Current Streak (days)</text>
+    <text class="range" x="380" y="158">Jul 31, 2026 – Aug 5, 2026</text>
+
+    <text class="number" x="633" y="111">19</text>
+    <text class="label" x="633" y="137">Longest Streak (days)</text>
+    <text class="range" x="633" y="158">Feb 6, 2026 – Feb 24, 2026</text>
+  </g>
+</svg>
