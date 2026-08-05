@@ -1,0 +1,45 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-github-activity.yml"
+      - "scripts/update_github_activity.py"
+
+concurrency:
+  group: update-github-activity
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Generate activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python3 scripts/update_github_activity.py --output assets/github-activity.svg
+
+      - name: Commit updated activity card
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-activity.svg
+          if git diff --cached --quiet; then
+            echo "Activity card is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub activity"
+          git push
