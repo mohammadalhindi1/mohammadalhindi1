@@ -158,7 +158,7 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadalhindi1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub contribution and streak statistics" />
+  <img width="100%" src="https://raw.githubusercontent.com/mohammadalhindi1/mohammadalhindi1/main/assets/github-activity.svg" alt="GitHub activity: contributions, current streak, and longest streak" />
 </div>
 
 ### Contribution Snake
