@@ -6,10 +6,18 @@
   "grade": "Cadet",
   "level": 4.28,
   "current_projects": [
-    "CPP Module 03",
+    "CPP Module 04",
     "cub3d"
   ],
   "projects": [
+    {
+      "name": "CPP Module 03",
+      "score": 100,
+      "completed_at": "2026-08-09T15:22:16.283Z",
+      "validated": true,
+      "description": "Object-oriented C++, canonical classes, inheritance, polymorphism, and templates.",
+      "repository": "https://github.com/mohammadalhindi1/CPP-Module-0to4"
+    },
     {
       "name": "CPP Module 02",
       "score": 80,
