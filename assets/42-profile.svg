@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title description">
   <title id="title">Mohammad Alhindi's 42 Amman progress</title>
-  <desc id="description">Level 4.28, 28 percent toward level 5, with 16 validated projects.</desc>
+  <desc id="description">Level 4.86, 86 percent toward level 5, with 17 validated projects.</desc>
   <defs>
     <linearGradient id="border" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#22d3ee" />
@@ -45,31 +45,31 @@
     <g transform="translate(44 112)">
       <rect width="170" height="62" rx="14" fill="#111827" stroke="#263449" />
       <text x="16" y="22" fill="#8b949e" font-size="10" font-weight="700" letter-spacing="1.3">LEVEL</text>
-      <text x="16" y="49" fill="#22d3ee" font-size="24" font-weight="800">4.28</text>
+      <text x="16" y="49" fill="#22d3ee" font-size="24" font-weight="800">4.86</text>
     </g>
     <g transform="translate(230 112)">
       <rect width="190" height="62" rx="14" fill="#111827" stroke="#263449" />
       <text x="16" y="22" fill="#8b949e" font-size="10" font-weight="700" letter-spacing="1.3">VALIDATED</text>
-      <text x="16" y="48" fill="#e6edf3" font-size="18" font-weight="750">16 projects</text>
+      <text x="16" y="48" fill="#e6edf3" font-size="18" font-weight="750">17 projects</text>
     </g>
     <g transform="translate(436 112)">
       <rect width="220" height="62" rx="14" fill="#111827" stroke="#263449" />
       <text x="16" y="22" fill="#8b949e" font-size="10" font-weight="700" letter-spacing="1.3">CURRENT</text>
-      <text x="16" y="48" fill="#e6edf3" font-size="17" font-weight="750">CPP Module 04 · cub3d</text>
+      <text x="16" y="48" fill="#e6edf3" font-size="17" font-weight="750">cub3d · Exam Rank 04</text>
     </g>
     <g transform="translate(672 112)">
       <rect width="184" height="62" rx="14" fill="#111827" stroke="#263449" />
       <text x="16" y="22" fill="#8b949e" font-size="10" font-weight="700" letter-spacing="1.3">LATEST</text>
-      <text x="16" y="48" fill="#e6edf3" font-size="15" font-weight="750">CPP Module 03 · 100</text>
+      <text x="16" y="48" fill="#e6edf3" font-size="15" font-weight="750">CPP Module 04 · 100</text>
     </g>
 
-    <text x="44" y="199" fill="#c9d1d9" font-size="12" font-weight="650">Level 4 · 28% toward Level 5</text>
+    <text x="44" y="199" fill="#c9d1d9" font-size="12" font-weight="650">Level 4 · 86% toward Level 5</text>
     <text x="856" y="199" fill="#8b949e" font-size="11" text-anchor="end">Updates when 42 data changes</text>
     <rect x="44" y="208" width="812" height="18" rx="9" fill="#334155" />
-    <rect x="44" y="208" width="227.4" height="18" rx="9" fill="url(#progress)">
+    <rect x="44" y="208" width="698.3" height="18" rx="9" fill="url(#progress)">
       <animate attributeName="opacity" values=".82;1;.82" dur="2.4s" repeatCount="indefinite" />
     </rect>
-    <circle cx="271.4" cy="217" r="5" fill="#e6edf3" filter="url(#glow)">
+    <circle cx="742.3" cy="217" r="5" fill="#e6edf3" filter="url(#glow)">
       <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite" />
     </circle>
     <text x="44" y="246" fill="#64748b" font-size="10" letter-spacing="1">PUBLIC 42 PROFILE DATA</text>

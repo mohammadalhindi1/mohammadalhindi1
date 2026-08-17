@@ -131,11 +131,12 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 <summary><strong>Read more | Project scores and engineering focus</strong></summary>
 
 <!-- 42_PROJECTS:START -->
-**Current project:** CPP Module 04 · cub3d  
-**Validated projects:** 16
+**Current project:** cub3d · Exam Rank 04  
+**Validated projects:** 17
 
 | Project | Score | What it demonstrates |
 |---|:---:|---|
+| [CPP Module 04](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **100** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
 | [CPP Module 03](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **100** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
 | [CPP Module 02](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **80** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
 | [CPP Module 01](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **90** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
