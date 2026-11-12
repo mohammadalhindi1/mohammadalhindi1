@@ -6,10 +6,17 @@
   "grade": "Cadet",
   "level": 4.86,
   "current_projects": [
-    "cub3d",
     "Exam Rank 04"
   ],
   "projects": [
+    {
+      "name": "cub3D",
+      "score": 111,
+      "completed_at": "2026-11-12T05:49:00.000Z",
+      "validated": true,
+      "description": "Raycasting, map parsing, textures, movement, and real-time rendering in C.",
+      "repository": "https://github.com/mohammadalhindi1/cub3D"
+    },
     {
       "name": "CPP Module 04",
       "score": 100,
