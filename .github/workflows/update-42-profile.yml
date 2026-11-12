@@ -1,6 +1,9 @@
 name: Update 42 profile
 
 on:
+  push:
+    paths:
+      - ".github/workflows/update-42-profile.yml"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
