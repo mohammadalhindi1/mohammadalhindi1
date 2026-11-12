@@ -121,7 +121,7 @@ def get_access_token(uid: str, secret: str) -> str:
     ]
     result = subprocess.run(command, capture_output=True, text=True, timeout=30)
     if result.returncode != 0:
-        details = (result.stderr or result.stdout).replace(uid, "[UID]").replace(secret, "[SECRET]")
+        details = (result.stderr + "\n" + result.stdout).replace(uid, "[UID]").replace(secret, "[SECRET]")
         raise RuntimeError(f"42 OAuth token request failed via curl: {details[:500].strip()}")
     response = json.loads(result.stdout)
     return response["access_token"]
