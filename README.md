@@ -131,11 +131,12 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 <summary><strong>Read more | Project scores and engineering focus</strong></summary>
 
 <!-- 42_PROJECTS:START -->
-**Current project:** cub3d · Exam Rank 04  
-**Validated projects:** 17
+**Current project:** Exam Rank 04  
+**Validated projects:** 18
 
 | Project | Score | What it demonstrates |
 |---|:---:|---|
+| [cub3D](https://github.com/mohammadalhindi1/cub3D) | **111** | Raycasting, map parsing, textures, movement, and real-time rendering in C. |
 | [CPP Module 04](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **100** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
 | [CPP Module 03](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **100** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
 | [CPP Module 02](https://github.com/mohammadalhindi1/CPP-Module-0to4) | **80** | Object-oriented C++, canonical classes, inheritance, polymorphism, and templates. |
