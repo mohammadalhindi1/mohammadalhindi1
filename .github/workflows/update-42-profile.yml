@@ -5,6 +5,7 @@ on:
     paths:
       - ".github/workflows/update-42-profile.yml"
       - "scripts/update_42_profile.py"
+      - "data/42-profile.json"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
@@ -44,7 +45,10 @@ jobs:
             exit 0
           fi
 
-          python scripts/update_42_profile.py --live
+          if ! python scripts/update_42_profile.py --live; then
+            echo "::warning::42 API is blocked by Cloudflare; regenerating from the last verified snapshot."
+            python scripts/update_42_profile.py
+          fi
 
           if git diff --quiet -- README.md assets/42-profile.svg data/42-profile.json; then
             echo "updated=false" >> "$GITHUB_OUTPUT"
