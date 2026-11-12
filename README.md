@@ -183,8 +183,8 @@ A living, project-based roadmap connecting engineering fundamentals to productio
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Public%20Repositories-24-2563EB?style=flat-square&logo=github&logoColor=white" alt="24 public repositories" />
-    <img src="https://img.shields.io/badge/Private%20Repositories-10-7C3AED?style=flat-square&logo=github&logoColor=white" alt="10 private repositories" />
-    <img src="https://img.shields.io/badge/Total%20Repositories-34-0891B2?style=flat-square&logo=github&logoColor=white" alt="34 repositories in total" />
+    <img src="https://img.shields.io/badge/Public%20Repositories-23-2563EB?style=flat-square&logo=github&logoColor=white" alt="23 public repositories" />
+    <img src="https://img.shields.io/badge/Private%20Repositories-19-7C3AED?style=flat-square&logo=github&logoColor=white" alt="19 private repositories" />
+    <img src="https://img.shields.io/badge/Total%20Repositories-42-0891B2?style=flat-square&logo=github&logoColor=white" alt="42 repositories in total" />
   </p>
 </div>
