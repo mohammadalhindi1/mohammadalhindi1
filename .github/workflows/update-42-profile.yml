@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/update-42-profile.yml"
+      - "scripts/update_42_profile.py"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
