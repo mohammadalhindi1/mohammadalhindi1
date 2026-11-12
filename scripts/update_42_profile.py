@@ -13,6 +13,7 @@ import html
 import json
 import os
 import re
+import subprocess
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -99,20 +100,31 @@ def get_access_token(uid: str, secret: str) -> str:
             "client_id": uid,
             "client_secret": secret,
         }
-    ).encode()
-    request = urllib.request.Request(
-        "https://api.intra.42.fr/oauth/token",
-        data=payload,
-        headers={
-            "Accept": "application/json",
-            "Content-Type": "application/x-www-form-urlencoded",
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        },
-        method="POST",
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.load(response)["access_token"]
-
+    command = [
+        "curl",
+        "--fail-with-body",
+        "--silent",
+        "--show-error",
+        "--location",
+        "--request",
+        "POST",
+        "https://api.intra.42.fr/oauth/token",
+        "--header",
+        "Accept: application/json",
+        "--header",
+        "Content-Type: application/x-www-form-urlencoded",
+        "--header",
+        "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "--data",
+        payload,
+    ]
+    result = subprocess.run(command, capture_output=True, text=True, timeout=30)
+    if result.returncode != 0:
+        details = (result.stderr or result.stdout).replace(uid, "[UID]").replace(secret, "[SECRET]")
+        raise RuntimeError(f"42 OAuth token request failed via curl: {details[:500].strip()}")
+    response = json.loads(result.stdout)
+    return response["access_token"]
 
 def project_key(name: str) -> str:
     return re.sub(r"[^a-z0-9]", "", name.lower())
